@@ -1,0 +1,3 @@
+/home/kato/Desktop/cproyect/build/CMakeFiles/kato.dir
+/home/kato/Desktop/cproyect/build/CMakeFiles/edit_cache.dir
+/home/kato/Desktop/cproyect/build/CMakeFiles/rebuild_cache.dir
