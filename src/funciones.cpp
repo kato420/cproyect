@@ -29,3 +29,4 @@ void draw(int n) {
   }
 }
 // Esta funcion dibuja la pirámide
+void nueva() { cout << "Hola amigo" << endl; }
