@@ -15,6 +15,7 @@ int obtenerNivel(int n) {
   }
   return i - 1;
 }
+// Esta funcion obtiene el nivel máximo de la pirámide
 
 void draw(int n) {
   for (int i = 0; i < n; i++) {
@@ -27,3 +28,4 @@ void draw(int n) {
     cout << endl;
   }
 }
+// Esta funcion dibuja la pirámide
